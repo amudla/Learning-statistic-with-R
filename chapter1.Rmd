@@ -1,0 +1,15 @@
+---
+title: "chapter1"
+author: "Anusorn Mudla"
+date: "5/19/2019"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+```{r}
+1-ppois(6,0.5)
+```
+
